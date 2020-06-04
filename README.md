@@ -2,4 +2,4 @@
 Random shit, just to get som routines in GitHub
 
 Project 1: Basic C#, a Calculator
-<hr>Project 2: Basic C#, a MadLibs
+<br>Project 2: Basic C#, a MadLibs
