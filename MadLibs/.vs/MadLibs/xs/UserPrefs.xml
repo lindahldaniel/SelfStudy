@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{5AD69BAB-836C-41E4-9A13-5928A1749DC6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MadLibs/Program.cs">
     <Files>
-      <File FileName="MadLibs/Program.cs" Line="1" Column="1" />
+      <File FileName="MadLibs/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MadLibs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MadLibs PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
